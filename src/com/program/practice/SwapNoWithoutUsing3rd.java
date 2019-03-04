@@ -11,6 +11,9 @@ b=a-b;
 a=a-b;
 System.out.println("a"+a);
 System.out.println("b"+b);
-	}
+System.out.println("Agal");
+System.out.println("Agal1");
+System.out.println("Agal12");	
+}
 
 }
